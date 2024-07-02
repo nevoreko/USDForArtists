@@ -11,7 +11,7 @@ hero:
     actions:
         - theme: brand
           text: Explore the wiki
-          link: "/wiki/introduction/whatIsUSD"
+          link: "/wiki/introduction/what"
 features:
     - icon: 🛠️
       title: Core Concepts

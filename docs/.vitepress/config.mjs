@@ -10,8 +10,7 @@ export default defineConfig({
 		logo: "/images/USDLogo.png",
 		nav: [
 			{ text: "Home", link: "/" },
-			{ text: "About", link: "about.md" },
-			{ text: "Markdown Examples", link: "/markdown-examples" },
+			{ text: "About", link: "/nav/about" },
 		],
 
 		sidebar: [
@@ -19,12 +18,12 @@ export default defineConfig({
 				text: "Introduction",
 				items: [
 					{
-						text: "What is USD?",
-						link: "/wiki/introduction/whatIsUSD.md",
+						text: "What?",
+						link: "/wiki/introduction/what",
 					},
 					{
-						text: "Who is it for?",
-						link: "/wiki/introduction/whoIsItFor.md",
+						text: "Why?",
+						link: "/wiki/introduction/why",
 					},
 				],
 			},

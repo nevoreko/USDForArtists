@@ -12,9 +12,9 @@ Saving a USD file is like sharing the instruction manual that tells the software
 
 ## Structure
 
-### Primitives everywhere!
+### A Hierarchy
 
-USD is composed of a hierarchy of elements, each member of that hierarchy is called a **Primitive**, or **Prim** for close friends! They can be anything really—sometimes a piece of geometry, maybe a transform, or other times a light.
+A USD file is composed of a hierarchy of elements, each element of that hierarchy is called a **Primitive**, or **Prim** for close friends! They can be anything really—sometimes a piece of geometry, maybe a transform, other times a light...
 
 ::: tip TIP :sparkles:
 They are the individual bricks in our LEGO analogy.
@@ -34,8 +34,4 @@ Shading nodes (file, noise ...), material node (principled shader)
 
 #### Render Data
 
-Render settings, render elements (called rendervars in USD)
-
----
-
-Each of those primitives, in addition to having a type, can contain **Attributes** and **Relationship**, wich are collectively referred to as **Properties**
+Render settings, render elements (called **Rendervars** in USD)

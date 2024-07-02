@@ -11,7 +11,7 @@ import {
 
 const members = [
     {
-    avatar: 'images/teamMembers/AndreasKjærJensen.jpg',
+    avatar: '../images/teamMembers/AndreasKjærJensen.jpg',
     name: 'Andreas Kjær-Jensen',
     title: 'Lighting Lead',
     org: 'GhostVFX',
@@ -21,7 +21,7 @@ const members = [
     ]
   },
   {
-    avatar: 'images/teamMembers/MarvinChrastek.jpg',
+    avatar: '../images/teamMembers/MarvinChrastek.jpg',
     name: 'Marvin Chrastek',
     title: 'Lighting Lead',
     org: 'GhostVFX',
