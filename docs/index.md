@@ -4,7 +4,7 @@ layout: home
 
 hero:
     name: "USD For Artists"
-    text: "Boost your understanding of Pixar's USD"
+    text: "Boost your understanding of Open USD"
     tagline: Empowered by SideFX Houdini
     image: /images/USDLogoWithText.png
     #tagline: My great project tagline

@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
 	base: "/USDForArtists/",
 	title: "USD For Artists",
-	description: "Boost your understanding of Pixar's USD",
+	description: "Boost your understanding of Open USD",
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: "/images/USDLogo.png",
