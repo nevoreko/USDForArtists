@@ -28,6 +28,42 @@ export default defineConfig({
 					},
 				],
 			},
+			{
+				text: "Core Concepts",
+				items: [
+					{
+						text: "Placeholder",
+						link: "",
+					},
+				],
+			},
+			{
+				text: "Artist Workflows",
+				items: [
+					{
+						text: "Placeholder",
+						link: "",
+					},
+				],
+			},
+			{
+				text: "Useful Links & References",
+				items: [
+					{
+						text: "Placeholder",
+						link: "",
+					},
+				],
+			},
+			{
+				text: "Examples & Tutorials",
+				items: [
+					{
+						text: "Placeholder",
+						link: "",
+					},
+				],
+			},
 		],
 		search: {
 			provider: "local",
