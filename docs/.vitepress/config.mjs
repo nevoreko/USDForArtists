@@ -7,7 +7,7 @@ export default defineConfig({
 	description: "Boost your understanding of Pixar's USD",
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
-		logo: "images/USDLogo400x400.png",
+		logo: "/images/USDLogo.png",
 		nav: [
 			{ text: "Home", link: "/" },
 			{ text: "Examples", link: "/markdown-examples" },

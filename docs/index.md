@@ -5,7 +5,7 @@ layout: home
 hero:
     name: "USD For Artists"
     text: "Boost your understanding of Pixar's USD"
-    image: images/USDLogoLrgWithAlpha.png
+    image: /images/USDLogoWithText.png
     #tagline: My great project tagline
     actions:
         - theme: brand
