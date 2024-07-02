@@ -20,11 +20,11 @@ export default defineConfig({
 				items: [
 					{
 						text: "What is USD?",
-						link: "wiki/introduction/whatIsUSD.md",
+						link: "/wiki/introduction/whatIsUSD.md",
 					},
 					{
 						text: "Who is it for?",
-						link: "wiki/introduction/whoIsItFor.md",
+						link: "/wiki/introduction/whoIsItFor.md",
 					},
 				],
 			},
