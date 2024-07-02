@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "USD For Artists"
-  text: "Increase your understanding of Pixar's USD"
+  text: "Boost your understanding of Pixar's USD"
   tagline: My great project tagline
   actions:
     - theme: brand
