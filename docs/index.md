@@ -31,8 +31,8 @@ features:
 
 We’re excited to have you here! Whether you’re new to USD or looking to sharpen your skills, you're at the right place!
 
-USD is heavy to understand. We are making this wiki guide because we felt a void for a simple written ressource on this complicated subject.
+We created this wiki guide because USD is complex and lacked accessible written resources.
 
-The goal of this wiki is to demystify this USD world, we will enphasis on trying to introduce each concepts with a clear and simple explanation, followed by a progressively deeper analysis to enhance your understanding.
+We aim to simplify the complex world of USD, starting with clear explanations and gradually deepening your understanding through progressively more detailed analyses.
 
 SideFX Houdini will be our software of choice for most of the journey.
