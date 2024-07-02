@@ -38,4 +38,4 @@ Render settings, render elements (called **Rendervars** in USD)
 
 Example of a simple USD Graph within Houdini:
 
-![simple graph](../../images/introduction/simpleGraph.png)
+![simple graph](/images/introduction/simpleGraph.png)
