@@ -30,8 +30,12 @@ Meshes, transforms, curves, points, nurbs.
 
 Shading nodes (file, noise ...), material node (principled shader)
 
-![simple graph](../../public/images/introduction/simpleGraph.png)
-
 #### Render Data
 
 Render settings, render elements (called **Rendervars** in USD)
+
+---
+
+Example of a simple USD Graph within Houdini:
+
+![simple graph](../../images/introduction/simpleGraph.png)
