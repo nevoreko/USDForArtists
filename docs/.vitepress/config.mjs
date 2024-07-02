@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 	base: "/USDForArtists/",
-	title: "USD For Artists",
+	title: "USD For Artistssssssssssss",
 	description: "Boost your understanding of Pixar's USD",
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
