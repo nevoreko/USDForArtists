@@ -10,25 +10,24 @@ hero:
     actions:
         - theme: brand
           text: Explore the wiki
-          link: "wiki/introduction/whatIsUSD"
+          link: "/wiki/introduction/whatIsUSD"
+features:
+    - icon: 🛠️
+      title: Core Concepts
+      details: Explanation of USD's building blocks.
+    - icon: 🎨
+      title: Artist Workflows
+      details: Discover how USD can make your creative process smoother.
+    - icon: 💡
+      title: Tips & Tricks
+      details: Learn pro techniques to make the most out of USD.
+    - icon: 📚
+      title: Examples & Tutorials
+      details: Practical examples that will help you understand different concepts.
 ---
 
-# Welcome,
+### Welcome
 
-We’re excited to have you here! Whether you’re new to USD or looking to sharpen your skills, you're at the right place! We will try to introduce each concepts with a clear explanation, followed by a progressively deeper analysis to enhance your understanding.
+We’re excited to have you here! Whether you’re new to USD or looking to sharpen your skills, you're at the right place! This wiki will enphasis on trying to introduce each concepts with a clear and simple explanation, followed by a progressively deeper analysis to enhance your understanding.
 
-## What You’ll Find In This Wiki:
-
-### Artist Workflows
-
-Discover how USD can make your creative process smoother.
-
-### Tips & Tricks
-
-Learn pro techniques to make the most of USD.
-
-### Examples & Tutorials
-
-Practical examples that will help you understand different concepts.
-
-Enjoy! :fire:
+SideFX Houdini will be our software of choice for most of the journey.
