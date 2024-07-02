@@ -20,7 +20,7 @@ A USD file is composed of a hierarchy of elements, each element of that hierarch
 They are the individual bricks in our LEGO analogy.
 :::
 
-Some more examples:
+Some more dry examples:
 
 #### Geometry
 
