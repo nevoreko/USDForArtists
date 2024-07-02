@@ -12,6 +12,6 @@ USD's efficiency depends on your careful use; its power can easily become a burd
 
 USD supports teamwork by letting multiple artists work on the same project simultaneously without messing up each other’s work. Each artist can do their part in their own file, which is then combined smoothly. This way, changes are easy to track and fix.
 
-## Fast feedback
+## Feedback
 
 USD speeds up your workflow by making it quick to see and adjust changes. It helps you get fast feedback on your work and reduces any waiting time when moving data between apps and files.
