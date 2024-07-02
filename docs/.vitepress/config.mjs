@@ -10,15 +10,22 @@ export default defineConfig({
 		logo: "/images/USDLogo.png",
 		nav: [
 			{ text: "Home", link: "/" },
-			{ text: "Examples", link: "/markdown-examples" },
+			{ text: "About", link: "about.md" },
+			{ text: "Markdown Examples", link: "/markdown-examples" },
 		],
 
 		sidebar: [
 			{
-				text: "Examples",
+				text: "Introduction",
 				items: [
-					{ text: "Markdown Examples", link: "/markdown-examples" },
-					{ text: "Runtime API Examples", link: "/api-examples" },
+					{
+						text: "What is USD?",
+						link: "wiki/introduction/whatIsUSD.md",
+					},
+					{
+						text: "Who is it for?",
+						link: "wiki/introduction/whoIsItFor.md",
+					},
 				],
 			},
 		],

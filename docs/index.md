@@ -10,7 +10,7 @@ hero:
     actions:
         - theme: brand
           text: Explore the wiki
-          link: "wiki/introduction/whatIsIt.md"
+          link: "wiki/introduction/whatIsUSD"
 ---
 
 # Welcome,
