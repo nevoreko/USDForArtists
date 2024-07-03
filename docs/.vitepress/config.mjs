@@ -33,7 +33,6 @@ export default defineConfig({
 					{
 						text: "Stage and Primitives",
 						link: "/wiki/coreConcepts/stagePrimitiveAndPrimvars",
-						
 					},
 					{
 						text: "Properties and Primvars",
@@ -55,10 +54,6 @@ export default defineConfig({
 				],
 			},
 			{
-				text: "Useful Links & References",
-				link: "/wiki/usefulLinksAndReference"
-			},
-			{
 				text: "Examples & Tutorials",
 				items: [
 					{
@@ -66,6 +61,10 @@ export default defineConfig({
 						link: "",
 					},
 				],
+			},
+			{
+				text: "Useful Links & References",
+				link: "/wiki/usefulLinksAndReference",
 			},
 		],
 		search: {
