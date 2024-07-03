@@ -29,10 +29,19 @@ features:
 
 ### Welcome
 
-We’re excited to have you here! Whether you’re new to USD or looking to sharpen your skills, you're at the right place!
+We're thrilled to have you here. Whether a newcomer or looking to improve your skills, this is the right place to start!
 
-We created this wiki guide because USD is complex and lacked accessible written resources.
+We created this guide because USD can be overwhelming and lacks _actually_ accessible written resources.
 
-We aim to simplify the complex world of USD, starting with clear explanations and gradually deepening your understanding through progressively more detailed analyses.
+Our goal: simplify USD by starting with clear explanations and gradually diving deeper into more detailed workflows.
 
-SideFX Houdini will be our software of choice for most of the journey.
+::: warning
+In order to simplify the subject we will focus on what we feel are the most important concepts, omitting certain aspects. This means that you might not find every possible nuance or exception explained here.
+
+For those seeking more in-depth coverage please explore the [Useful Links and Reference](/wiki/usefulLinksAndReference.md) page.
+
+:::
+
+As we explore, our primary tool will be SideFX Houdini.
+
+Let's get started! 🔥

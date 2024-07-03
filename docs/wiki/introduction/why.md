@@ -2,7 +2,7 @@
 
 ## Universal
 
-USD acts like a universal language for 3D data, making it easy to move and edit across different tools without any issues. It helps you manage whole scenes, create layouts, assign materials and lighting in a structured and efficient way.
+Using USD makes it super convenient to work with 3D data - you can easily share and edit files across different tools without hassle. It's also great for organizing complex scenes, setting up layouts, adding materials and lighting in a way that's easy to manage.
 
 ::: warning WARNING ⚠️
 USD's efficiency depends on your careful use; its power can easily become a burden if not handled responsibly. But that is why you're here!
@@ -10,8 +10,8 @@ USD's efficiency depends on your careful use; its power can easily become a burd
 
 ## Teamwork
 
-USD supports teamwork by letting multiple artists work on the same project simultaneously without messing up each other’s work. Each artist can do their part in their own file, which is then combined smoothly. This way, changes are easy to track and fix.
+USD makes collaboration a breeze by allowing multiple artists to work on the same project together without interfering with each other's work. Each contributor can focus on their own section of the file, which is then easily merged into one cohesive piece - making it simple to track and correct any changes along the way.
 
-## Feedback
+## Quick Feedback
 
-USD speeds up your workflow by making it quick to see and adjust changes. It helps you get fast feedback on your work and reduces any waiting time when moving data between apps and files.
+USD speeds up your workflow by making it quick to see and adjust changes. It helps you get fast feedback on your work and reduces any waiting time.

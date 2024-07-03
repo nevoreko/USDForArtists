@@ -31,8 +31,17 @@ export default defineConfig({
 				text: "Core Concepts",
 				items: [
 					{
-						text: "Placeholder",
-						link: "",
+						text: "Stage and Primitives",
+						link: "/wiki/coreConcepts/stagePrimitiveAndPrimvars",
+						
+					},
+					{
+						text: "Properties and Primvars",
+						link: "/wiki/coreConcepts/stagePrimitiveAndPrimvars",
+					},
+					{
+						text: "Layers and Composition",
+						link: "/wiki/coreConcepts/stagePrimitiveAndPrimvars",
 					},
 				],
 			},
@@ -47,12 +56,7 @@ export default defineConfig({
 			},
 			{
 				text: "Useful Links & References",
-				items: [
-					{
-						text: "Placeholder",
-						link: "",
-					},
-				],
+				link: "/wiki/usefulLinksAndReference"
 			},
 			{
 				text: "Examples & Tutorials",

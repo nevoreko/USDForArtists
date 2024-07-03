@@ -39,7 +39,7 @@ const members = [
       Our Team
     </template>
     <template #lead>
-      This wiki is driven by 2 passionate VFX artists willing to share their knowledge.
+      This wiki was created by two enthusiastic visual effects professionals who are excited to share their expertise with others.
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
