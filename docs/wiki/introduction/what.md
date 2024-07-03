@@ -7,6 +7,6 @@ In simple terms USD is a common ground for artists to save and share 3D models, 
 
 Imagine you're building with LEGOs, each brick has its own shape, color, and position. In a 3D scene, those "LEGO bricks" are objects like characters, environments, and lights.
 
-::: tip TIP :sparkles:
+::: tip
 Saving a USD file is like sharing the instruction manual that tells the software exactly how everything fits together.
 :::

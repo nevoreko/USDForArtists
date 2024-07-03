@@ -1,32 +1,40 @@
-# Stage, Prims and Primvars
+# Let's start with the base
 
-A USD file is structured as a hierarchy of primitives (let's call them *Prims* from now on). If you're coming from the little introduction, you've already seen a glimps of what a prim is (remember the lego bricks?)
+Imagine a physical platform - just as actors perform on a traditional stage, your **stage** is where you bring all your objects, lights, animation... and any other content together.
 
+This stage is composed of a hierarchy of elements, each element of that hierarchy is called **primitive**, or **prim** for close friends!
 
-This hierarchy is referred to as **Stage**
+They can be anything really - sometimes a piece of geometry, maybe a transform, other times a light...
 
-A USD file is composed of a hierarchy of elements, each element of that hierarchy is called a **Primitive**, or **Prim** for close friends! They can be anything really—sometimes a piece of geometry, maybe a transform, other times a light...
+::: tip
+They are the individual bricks in our LEGO [introduction](../introduction/what.md) analogy.
+:::
 
-::: tip TIP :sparkles:
-They are the individual bricks in our LEGO analogy.
+Example of a simple USD Graph within Houdini:
+![simple graph](/images/coreConcepts/simpleGraph.png)
+
+::: info
+As you can see every single prims are assigned a **type**, that describes what they are.
 :::
 
 Some more dry examples:
 
 #### Geometry
 
-Meshes, transforms, curves, points, nurbs.
+-   meshes
+-   transforms
+-   curves
+-   points
+-   nurbs
 
 #### Shading
 
-Shading nodes (file, noise ...), material node (principled shader)
+-   shading nodes (file, noise ...)
+-   material node (principled shader)
 
 #### Render Data
 
-Render settings, render elements (called **Rendervars** in USD)
+-   render settings,
+-   render elements (called **Rendervars** in USD)
 
 ---
-
-Example of a simple USD Graph within Houdini:
-
-![simple graph](/images/introduction/simpleGraph.png)

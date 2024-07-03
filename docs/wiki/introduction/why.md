@@ -4,7 +4,7 @@
 
 Using USD makes it super convenient to work with 3D data - you can easily share and edit files across different tools without hassle. It's also great for organizing complex scenes, setting up layouts, adding materials and lighting in a way that's easy to manage.
 
-::: warning WARNING ⚠️
+::: warning
 USD's efficiency depends on your careful use; its power can easily become a burden if not handled responsibly. But that is why you're here!
 :::
 
