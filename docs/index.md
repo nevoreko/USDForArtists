@@ -33,7 +33,7 @@ We're thrilled to have you here. Whether a newcomer or looking to improve your s
 
 We created this guide because USD can be overwhelming and lacks _actually_ accessible written resources.
 
-Our goal: simplify USD by starting with clear explanations and gradually diving deeper into more detailed workflows.
+Our goal: simplify USD by starting with clear and simple explanations then gradually diving deeper into more detailed workflows.
 
 ::: warning
 In order to simplify the subject we will focus on what we feel are the most important concepts, omitting certain aspects. This means that you might not find every possible nuance or exception explained here.
